@@ -1,24 +1,69 @@
-# 💫 About Me:
-🔭 I'm currently working on Shinkai Project & custom ROMs for Moto Edge 40 Neo<br>👯 I'm looking to collaborate on Android/AOSP based ROM projects<br>🌱 I'm looking for help with kernel-level Android development<br>🌱 I'm currently learning advanced Linux internals<br>💬 Ask me about Custom ROMs, LineageOS, Evolution X, Android Studio<br>⚡ Fun fact I break more devices than I fix 😅
+[MinitxT](https://github.com/MinitxT/MinitxT)/README.md
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a0533,100:0d1117&height=160&section=header&text=Minit.exe&fontSize=60&fontColor=c792ea&fontAlignY=38&desc=Custom%20ROM%20Developer%20%7C%20Web%20Designer&descAlignY=58&fontFamily=Courier)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minit.exe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minitrajxt@gmail.com) 
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MinitxT&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MinitxT&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MinitxT&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MinitxT&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+Student from 🇮🇳 India — Custom ROM Developer & Maintainer, Web Designer & Developer.
 
 ---
-[![](https://komarev.com/ghpvc/?username=MinitxT&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Currently
+
+[#currently](#currently)
+
+- Working on **Moto Edge 40 Neo (manaus)** custom ROM builds
+
+---
+
+### My Work
+
+- **Moto Edge 40 Neo (manaus)**
+  - [LineageOS](https://github.com/MinitxT)
+  - [Evolution X](https://github.com/MinitxT)
+  - [Shinkai Project](https://github.com/MinitxT)
+  - etc
+
+---
+
+### Skills
+
+[#skills](#skills)
+
+![Android](https://img.shields.io/badge/Android%20%26%20Custom%20ROM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Design%20%26%20Dev-000000?style=for-the-badge&logo=htmx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%26%20CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+---
+
+### Devices
+
+[#devices](#devices)
+
+- Moto Edge 40 Neo — Main/Dev
+- Xiaomi Mi 10i 5G — Dead
+- Vivo Y21s — Broken Display
+
+---
+
+### Hobbies
+
+[#hobbies](#hobbies)
+
+- Custom ROMs • Web Design
+- Linux & Android Experimenting
+- Exploring how things work
+
+---
+
+### Connect
+
+[#connect](#connect)
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://minit.io)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/minit_exe)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minitrajxt@gmail.com)
+
+“Understanding how things work is my favourite hobby.”
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0f0f0f&height=100&section=footer)
