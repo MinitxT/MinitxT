@@ -42,9 +42,9 @@
 
 [#devices](#devices)
 
-- HP Notebook — i5 8th Gen, 8GB RAM, 256GB SSD + 1TB HDD
-- Dell Vostro — i3 13th Gen, 8GB RAM, 512GB SSD
-- Lenovo IdeaPad 5 — i5 9th Gen, 8GB RAM, 1TB HDD
+- HP Notebook — i5 8th Gen, 8GB RAM, 256GB SSD + 1TB HDD -Windows 10
+- Dell Vostro — i3 13th Gen, 8GB RAM, 512GB SSD -Arch linux
+- Lenovo IdeaPad 5 — i5 9th Gen, 8GB RAM, 1TB HDD -ubantu 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
