@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:c800ff,100:0d0221&height=200&section=header&text=Minit.exe&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Custom%20ROM%20Developer%20%7C%20Web%20Designer&descAlignY=55&descColor=ff9de2&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:c800ff,100:0d0221&height=200&section=header&text=MinitxT&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Custom%20ROM%20Developer%20%7C%20Web%20Designer&descAlignY=55&descColor=ff9de2&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2FD0&center=true&vCenter=true&width=500&lines=Student+from+%F0%9F%87%AE%F0%9F%87%B3+India;Custom+ROM+Developer+%26+Maintainer;Web+Designer+%26+Developer)](https://git.io/typing-svg)
 
@@ -19,9 +19,9 @@
 ### 🛠️ My Work
 
 - **Moto Edge 40 Neo (manaus)**
-  - [LineageOS](https://github.com/MinitxT)
-  - [Evolution X](https://github.com/MinitxT)
-  - [Shinkai Project](https://github.com/MinitxT)
+  - [LineageOS](https://t.me/minitxt00)
+  - [Evolution X](https://github.com/MinitxT/rom)
+  - [Shinkai Project](https://t.me/minitxt00/42)
   - etc
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
@@ -62,7 +62,7 @@
 
 [#connect](#connect)
 
-[![Website](https://img.shields.io/badge/Website-FF2FD0?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0d0221)](https://minit.io)
+[![Website](https://img.shields.io/badge/Website-FF2FD0?style=for-the-badge&logo=todoist&logoColor=white&labelColor=0d0221)](MinitxT.github.io)
 [![Telegram](https://img.shields.io/badge/Telegram-C800FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d0221)](https://t.me/minit_exe)
 [![Gmail](https://img.shields.io/badge/Gmail-FF00A8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221)](mailto:minitrajxt@gmail.com)
 
