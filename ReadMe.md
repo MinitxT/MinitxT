@@ -40,11 +40,10 @@ Student from 🇮🇳 India — Custom ROM Developer & Maintainer, Web Designer 
 
 [#devices](#devices)
 
+- HP Notebook — i5 8th Gen, 8GB RAM, 256GB SSD + 1TB HDD
+- Dell Vostro — i3 13th Gen, 8GB RAM, 512GB SSD
+- Lenovo IdeaPad 5 — i5 9th Gen, 8GB RAM, 1TB HDD
 - Moto Edge 40 Neo — Main/Dev
-- Xiaomi Mi 10i 5G — Dead
-- Vivo Y21s — Broken Display
-
----
 
 ### Hobbies
 
