@@ -42,9 +42,9 @@
 
 [#devices](#devices)
 
-- HP Notebook — i5 8th Gen, 8GB RAM, 256GB SSD + 1TB HDD -Windows 10
-- Dell Vostro — i3 13th Gen, 8GB RAM, 512GB SSD -Arch linux
-- Lenovo IdeaPad 5 — i5 9th Gen, 8GB RAM, 1TB HDD -ubantu 
+- HP Notebook — i5 8th Gen, 8GB RAM, 256GB SSD + 1TB HDD
+- Dell Vostro — i3 13th Gen, 8GB RAM, 512GB SSD
+- Lenovo IdeaPad 5 — i5 9th Gen, 8GB RAM, 1TB HDD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
@@ -80,6 +80,25 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinitxT&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=FF2FD0&text_color=ffffff" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinitxT&theme=react-dark&bg_color=0d0221&color=FF2FD0&line=C800FF&point=ffffff&hide_border=true" width="98%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MinitxT&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MinitxT&color=ff2fd0&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MinitxT.MinitxT&color=c800ff&style=for-the-badge)
 
 </div>
 
